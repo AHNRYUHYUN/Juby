@@ -73,7 +73,7 @@
 | JetPack | 4.6.4 (Development Kit 4.6.1) |
 |    OS   | Ubuntu 18.04 LTS              |
 
-> 참고: 기존 표기(18.6.04)는 일반적으로 **18.04 LTS**로 정리하는 것을 권장합니다.
+
 
 ---
 
@@ -158,9 +158,6 @@ python manage.py runserver 0.0.0.0:8000
 ---
 
 ## Server Libraries
-
-> 아래 목록은 README에 그대로 넣을 경우 너무 길어질 수 있습니다.
-> 보통은 `requirements.txt`로 관리하고, README에는 설치 방법만 유지하는 것을 권장합니다.
 
 <details>
 <summary><b>Click to expand full pip list</b></summary>
@@ -377,35 +374,16 @@ yolo==0.3.1
 
 ---
 
-## Diagrams / Docs (Add Files)
 
-README에서 아래 경로로 파일을 연결하는 것을 권장합니다.
-
-* 회로도: `docs/circuits/` (e.g., `circuit_diagram.png` or `.pdf`)
-* 부품 제원: `docs/parts/` (e.g., `BOM.xlsx`, `datasheets/`)
-* 기능 구조도: `docs/diagrams/` (e.g., `system_overview.png`)
-
----
-
-## LICENSE
-
-JUNGBU Univercity Student ID Number 20 한승준
-
----
-
-## Status
-
-**Free**
-
----
 
 ## Contributors
 
 * 92017011 한승준
 * 92016902 이은호
 * 92016847 안류현
-* (지도교수: 이성규)
+
 
 ```
 ```
+
 
