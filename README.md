@@ -1,4 +1,3 @@
-````md
 # JUBY (SmartFarm Mobile Sensing & Harvest Support)
 
 스마트팜 내부 **환경 편차(특히 유속 차이로 인한 온도 분포 불균형)** 문제를 해결하기 위해, **이동형 로봇**이 농장 전역의 데이터를 수집하고(온/습도·토양 등), 서버에서 저장·분석·시각화하며, 수확 시점 판단까지 확장 가능한 통합 시스템입니다.
@@ -409,3 +408,4 @@ JUNGBU Univercity Student ID Number 20 한승준
 
 ```
 ```
+
