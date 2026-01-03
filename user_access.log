@@ -1,0 +1,88 @@
+Watching for file changes with StatReloader
+요청 메서드: GET,   시간: 2024-12-06 14:58:43,     IP: 127.0.0.1,     경로: /,       User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+Not Found: /
+"GET / HTTP/1.1" 404 2168
+Watching for file changes with StatReloader
+요청 메서드: GET,   시간: 2024-12-06 14:58:56,     IP: 127.0.0.1,     경로: /,       User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+Not Found: /
+"GET / HTTP/1.1" 404 2168
+C:\Users\AhnRyuHyun\PycharmProjects\Juby\juby\settings.py changed, reloading.
+Watching for file changes with StatReloader
+요청 메서드: GET,   시간: 2024-12-06 15:23:09,     IP: 127.0.0.1,     경로: /,       User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+Not Found: /
+"GET / HTTP/1.1" 404 2168
+C:\Users\AhnRyuHyun\PycharmProjects\Juby\accountapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+요청 메서드: GET,   시간: 2024-12-06 15:23:36,     IP: 127.0.0.1,     경로: /,       User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+Not Found: /
+"GET / HTTP/1.1" 404 2168
+C:\Users\AhnRyuHyun\PycharmProjects\Juby\accountapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\AhnRyuHyun\PycharmProjects\Juby\juby\settings.py changed, reloading.
+Watching for file changes with StatReloader
+요청 메서드: GET,   시간: 2024-12-06 15:24:59,     IP: 192.168.0.2,     경로: /,       User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+Not Found: /
+"GET / HTTP/1.1" 404 2170
+요청 메서드: GET,   시간: 2024-12-06 15:25:00,     IP: 192.168.0.2,     경로: /,       User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+Not Found: /
+"GET / HTTP/1.1" 404 2170
+요청 메서드: GET,   시간: 2024-12-06 17:16:36,     IP: 192.168.0.2,     경로: /accountapp/,       User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+"GET /accountapp/ HTTP/1.1" 200 11057
+Watching for file changes with StatReloader
+요청 메서드: GET,   시간: 2024-12-06 17:40:37,     IP: 192.168.0.2,     경로: /,       User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+Not Found: /
+"GET / HTTP/1.1" 404 2170
+요청 메서드: GET,   시간: 2024-12-06 17:40:41,     IP: 192.168.0.2,     경로: /accountapp/,       User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+"GET /accountapp/ HTTP/1.1" 200 11057
+요청 메서드: GET,   시간: 2024-12-06 17:40:54,     IP: 192.168.0.2,     경로: /accountapp/robots/,       User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+"GET /accountapp/robots/ HTTP/1.1" 200 26415
+요청 메서드: GET,   시간: 2024-12-06 17:41:11,     IP: 192.168.0.91,     경로: /accountapp/robots/,       User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+"GET /accountapp/robots/ HTTP/1.1" 200 26415
+"GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+"GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+"GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+"GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3426
+"GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3796
+"GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1793
+"GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 200 59
+"GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+"GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+"GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+"GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+"GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 200 87533
+요청 메서드: GET,   시간: 2024-12-06 17:41:11,     IP: 192.168.0.91,     경로: /favicon.ico,       User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2221
+요청 메서드: POST,   시간: 2024-12-06 17:45:36,     IP: 192.168.0.127,     경로: /accountapp/windows/,       User-Agent: ESP32HTTPClient
+Not Found: /accountapp/windows/
+"POST /accountapp/windows/ HTTP/1.1" 404 12609
+- Broken pipe from ('192.168.0.127', 53669)
+요청 메서드: POST,   시간: 2024-12-06 17:45:43,     IP: 192.168.0.127,     경로: /accountapp/windows/,       User-Agent: ESP32HTTPClient
+Not Found: /accountapp/windows/
+"POST /accountapp/windows/ HTTP/1.1" 404 12609
+- Broken pipe from ('192.168.0.127', 53670)
+요청 메서드: POST,   시간: 2024-12-06 17:45:44,     IP: 192.168.0.127,     경로: /accountapp/illuminance/,       User-Agent: ESP32HTTPClient
+Not Found: /accountapp/illuminance/
+"POST /accountapp/illuminance/ HTTP/1.1" 404 12621
+- Broken pipe from ('192.168.0.127', 53671)
+요청 메서드: POST,   시간: 2024-12-06 17:45:46,     IP: 192.168.0.127,     경로: /accountapp/illuminance/,       User-Agent: ESP32HTTPClient
+Not Found: /accountapp/illuminance/
+"POST /accountapp/illuminance/ HTTP/1.1" 404 12621
+- Broken pipe from ('192.168.0.127', 53672)
+요청 메서드: POST,   시간: 2024-12-06 17:45:51,     IP: 192.168.0.127,     경로: /accountapp/illuminance/,       User-Agent: ESP32HTTPClient
+Not Found: /accountapp/illuminance/
+"POST /accountapp/illuminance/ HTTP/1.1" 404 12621
+- Broken pipe from ('192.168.0.127', 53673)
+요청 메서드: POST,   시간: 2024-12-06 17:45:56,     IP: 192.168.0.127,     경로: /accountapp/illuminance/,       User-Agent: ESP32HTTPClient
+Not Found: /accountapp/illuminance/
+"POST /accountapp/illuminance/ HTTP/1.1" 404 12621
+- Broken pipe from ('192.168.0.127', 53674)
+요청 메서드: POST,   시간: 2024-12-06 17:46:01,     IP: 192.168.0.127,     경로: /accountapp/illuminance/,       User-Agent: ESP32HTTPClient
+Not Found: /accountapp/illuminance/
+"POST /accountapp/illuminance/ HTTP/1.1" 404 12621
+- Broken pipe from ('192.168.0.127', 53675)
+Watching for file changes with StatReloader
+요청 메서드: POST,   시간: 2024-12-06 17:47:12,     IP: 192.168.0.129,     경로: /accountapp/temperature/,       User-Agent: ESP32HTTPClient
+Bad Request: /accountapp/temperature/
+"POST /accountapp/temperature/ HTTP/1.1" 400 140
+C:\Users\AhnRyuHyun\PycharmProjects\Juby\juby\settings.py changed, reloading.
