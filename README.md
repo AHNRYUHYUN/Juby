@@ -1,3 +1,4 @@
+````md
 # JUBY (SmartFarm Mobile Sensing & Harvest Support)
 
 스마트팜 내부 **환경 편차(특히 유속 차이로 인한 온도 분포 불균형)** 문제를 해결하기 위해, **이동형 로봇**이 농장 전역의 데이터를 수집하고(온/습도·토양 등), 서버에서 저장·분석·시각화하며, 수확 시점 판단까지 확장 가능한 통합 시스템입니다.
@@ -73,7 +74,7 @@
 | JetPack | 4.6.4 (Development Kit 4.6.1) |
 |    OS   | Ubuntu 18.04 LTS              |
 
-
+> 참고: 기존 표기(18.6.04)는 일반적으로 **18.04 LTS**로 정리하는 것을 권장합니다.
 
 ---
 
@@ -158,6 +159,9 @@ python manage.py runserver 0.0.0.0:8000
 ---
 
 ## Server Libraries
+
+> 아래 목록은 README에 그대로 넣을 경우 너무 길어질 수 있습니다.
+> 보통은 `requirements.txt`로 관리하고, README에는 설치 방법만 유지하는 것을 권장합니다.
 
 <details>
 <summary><b>Click to expand full pip list</b></summary>
@@ -365,20 +369,43 @@ yolo==0.3.1
 
 ---
 
+## CODE Interpret (TODO)
+
+* [ ] 모듈별 역할 정리
+* [ ] 함수 전달인자/반환값 정리
+* [ ] 로봇(라인트레이서/센서) 제어 흐름 정리
+* [ ] 서버(요청→뷰→시리얼라이저→모델) 흐름 정리
 
 ---
 
+## Diagrams / Docs (Add Files)
+
+README에서 아래 경로로 파일을 연결하는 것을 권장합니다.
+
+* 회로도: `docs/circuits/` (e.g., `circuit_diagram.png` or `.pdf`)
+* 부품 제원: `docs/parts/` (e.g., `BOM.xlsx`, `datasheets/`)
+* 기능 구조도: `docs/diagrams/` (e.g., `system_overview.png`)
+
+---
+
+## LICENSE
+
+JUNGBU Univercity Student ID Number 20 한승준
+
+---
+
+## Status
+
+**Free**
+
+---
 
 ## Contributors
 
 * 92017011 한승준
 * 92016902 이은호
 * 92016847 안류현
-
+* (지도교수: 이성규)
 
 ```
 ```
-#   J u b y 
- 
- 
-
